@@ -1,4 +1,4 @@
-## NOTICE: This repository has been archived.
+6fd782e851dbac34ad4c8e569dfef9e1a1eb62ff## NOTICE: This repository has been archived.
 
 Since `use-package` is now a part of Emacs core, all development has
 moved there. If you have issues, feature suggestion, or code changes
